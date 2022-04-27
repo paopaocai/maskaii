@@ -1,0 +1,13 @@
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/74.jpg
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/101.jpg
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/28.jpg
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/11.jpg
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/111.jpg
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/34.jpg
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/122.jpg
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/31.jpg
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/130.jpg
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/118.jpg
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/57.jpg
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/1.jpg
+/content/drive/MyDrive/darknet-mask/VOCdevkit/VOC2007/JPEGImages/46.jpg

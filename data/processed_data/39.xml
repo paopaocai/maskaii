@@ -1,0 +1,38 @@
+<annotation>
+	<folder>with_mask</folder>
+	<filename>39.jpg</filename>
+	<path>/Users/HoraceCai/Desktop/540 dl/maskdetect/with_mask/39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>115</ymin>
+			<xmax>333</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>149</ymin>
+			<xmax>628</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

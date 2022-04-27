@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without_mask</folder>
+	<filename>72.jpg</filename>
+	<path>/Users/HoraceCai/Desktop/540 dl/maskdetect/without_mask/72.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>143</ymin>
+			<xmax>431</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>noseout</folder>
+	<filename>104.jpg</filename>
+	<path>/Users/HoraceCai/Desktop/540 dl/maskdetect/noseout/104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nose_out</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>22</ymin>
+			<xmax>543</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>
