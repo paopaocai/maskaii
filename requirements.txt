@@ -1,0 +1,8 @@
+av==9.2.0
+matplotlib==3.3.4
+numpy==1.20.1
+opencv_python-headless==4.5.5.62
+pandas==1.2.4
+streamlit==1.8.1
+streamlit_webrtc==0.36.1
+torch==1.10.0
